@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuite"  thread-count="1">
+<test name="MavenProject1.NewTest">
+<classes>
+<class name="MavenProject1.FirstClass">
+</class>
+</classes>
+</test>
+</suite>
